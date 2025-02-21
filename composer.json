@@ -8,11 +8,11 @@
     "minimum-stability": "dev",
     "repositories": [
         {
-            "url": "https://github.com/rx-make/rx-make.git",
+            "url": "https://github.com/nemorize/rx-make.git",
             "type": "git"
         }
     ],
     "require": {
-        "rx-make/rx-make": "dev-main"
+        "rx-make/rx-make": "dev-develop"
     }
 }
